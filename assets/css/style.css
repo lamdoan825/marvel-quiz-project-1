@@ -1,0 +1,93 @@
+* {
+    background-color: rgb(48, 48, 48);
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+html {
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+.quiz-title {
+    font-size: 4.5vw;
+}
+
+.click-here {
+    font-size: 2.75vw;
+}
+
+.section {
+    padding: 0 30px 0 30px;
+    text-align: center;
+}
+
+.col.s12 {
+    padding-bottom: 15px;
+}
+
+.col.s5 {
+    padding-top: 40px;
+}
+
+#startBtn {
+    color: white;
+    background-color: rgb(157, 11, 11);
+}
+
+#startBtn:hover {
+    box-shadow: 5px 4px 100px 0px rgb(157, 11, 11);
+    transition: transform 150ms;    
+    transform: scale(1.03);
+    cursor: pointer;
+}
+
+img {
+    border-radius: 8%;
+}
+
+.questions {
+    padding-top: 50px;
+    font-size: 3vw;
+}
+
+.buttons1 {
+    background-color: rgb(157, 11, 11);
+    border: none;
+    margin-top: 25px;;
+    padding: 15px 10px 15px 10px;
+    border-radius: 8%;
+    font-size: 2vw;
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+.buttons1:hover {
+    box-shadow: 5px 4px 100px 0px rgb(157, 11, 11);
+    transition: transform 150ms;
+    transform: scale(1.03);
+    cursor: pointer;
+}
+
+.buttons2 {
+    background-color: rgb(157, 11, 11);
+    border: none;
+    padding: 15px 10px 15px 10px;
+    border-radius: 8%;
+    font-size: 2vw;
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+.buttons2:hover {
+    box-shadow: 5px 4px 100px 0px rgb(157, 11, 11);
+    transition: transform 150ms;
+    transform: scale(1.03);
+    cursor: pointer;
+}
+
+.gif {
+    padding-top: 40px;
+}
+
+#description {
+    font-size: 1.5vw;
+    margin: 0px 15px 25px 15px; 
+}
