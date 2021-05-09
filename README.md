@@ -4,6 +4,8 @@ This is a personality quiz in order to determine which Marvel hero you are most 
 
 After every answer a fun, unique gif will appear!
 
+Upon finishing the quiz, the marvel hero you are most like will appear with a picture and bio description.
+
 ![Marvel Quiz](./assets/css/screenshot.png)
 
 Live URL:
